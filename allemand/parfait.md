@@ -81,11 +81,11 @@ exemples:
 * Mama **hat** die Fensterscheiben **geputzt** . (putzen) (Maman a nettoyé les fenêtres)
 * Du **hast** dein Zeugnis **verloren**. (verlieren) (Vous avez perdu votre certificat.)
 * Ich **habe** eine schwere Tasche **getragen**. (tragen) (J'ai porté un sac lourd.)
-* Ihr habt eurem Freund zum Geburtstag gratuliert. (gratulieren) (Tu as félicité ton ami pour son anniversaire. (féliciter))
+* Ihr **habt** eurem Freund zum Geburtstag **gratuliert**. (gratulieren) (Tu as félicité ton ami pour son anniversaire. (féliciter))
 * Meine Schwestern **sind** zu Hause **geblieben**. (bleiben) (Mes sœurs sont restées à la maison. (rester))
 * Sie **hat** eine Puppe **bekommen**. (bekommen) (Elle a eu une poupée. (recevoir))
 * Er **ist** in sein Zimmer **gegangen**. (gehen) (Il est allé dans sa chambre. (aller))
-* Die Nachbarn sind zum Abendessen gekommen. (kommen) (Les voisins sont venus dîner. (venir))
+* Die Nachbarn **sind** zum Abendessen **gekommen**. (kommen) (Les voisins sont venus dîner. (venir))
 * Der Fernseher **hat** nicht **funktioniert**. (funktionieren) (La télé ne fonctionnait pas. (fonctioner))
 * Ich **bin** heute im Supermarkt **gewesen**. (sein) (Je suis allé au supermarché aujourd'hui. (être))
 
@@ -137,10 +137,10 @@ exemples:
 8. Wann hast du mich **besucht**? Letzte Woche? (besuchen) (Quand es-tu venu me voir? La semaine dernière? (visiter))
 ->   pas de 'ge' avec un verbe en be
 
-9. Hast du deine Erdkundelektion gelernt? (lernen) (Avez-vous appris votre leçon de géographie? (apprendre))
+9. Hast du deine Erdkundelektion **gelernt**? (lernen) (Avez-vous appris votre leçon de géographie? (apprendre))
 ->   'ge' + radical + t
 
-10. Er hat eine Stunde lang mit seiner Freundin telefoniert. (telefonieren) (Il a parlé à sa petite amie au téléphone pendant une heure. (parler au téléphone))
+10. Er hat eine Stunde lang mit seiner Freundin **telefoniert**. (telefonieren) (Il a parlé à sa petite amie au téléphone pendant une heure. (parler au téléphone))
 ->    pas de 'ge' avec un verbe dont l'infinitif se termine par ieren
 
 ### 3
@@ -178,34 +178,34 @@ Mein Bruder macht das Licht aus.
 #### Corrections
 
 * Das Kind macht die Tür auf.
-=> Das Kind hat die Tür aufgemacht. (L'enfant ouvre la porte.  => L'enfant a ouvert la porte.)
+=> Das Kind **hat** die Tür **aufgemacht**. (L'enfant ouvre la porte.  => L'enfant a ouvert la porte.)
 
 * Steffie geht zu ihrer Freundin Enke.
-=> Steffie ist zu ihrer Freundin Enke gegangen. (Steffie va chez son amie Enke.  => Steffie est allée chez son amie Enke.)
+=> Steffie **ist** zu ihrer Freundin Enke **gegangen**. (Steffie va chez son amie Enke.  => Steffie est allée chez son amie Enke.)
 
 * Wir sehen jeden Abend fern.
-=> Wir haben jeden Abend ferngesehen. (Nous regardons la télévision tous les soirs.  => Nous regardions la télévision tous les soirs.)
+=> Wir **haben** jeden Abend **ferngesehen**. (Nous regardons la télévision tous les soirs.  => Nous regardions la télévision tous les soirs.)
 
 * Anna antwortet ihrem Vater.
-=> Anna hat ihrem Vater geantwortet. (Anna répond à son père.  => Anna répondit à son père.)
+=> Anna **hat** ihrem Vater **geantwortet**. (Anna répond à son père.  => Anna répondit à son père.)
 
 * Die beiden Mannschaften kommen aufs Spielfeld.
-=> Die beiden Mannschaften sind aufs Spielfeld gekommen. (Les deux équipes entrent sur le terrain.  => Les deux équipes sont entrées sur le terrain.)
+=> Die beiden Mannschaften **sind** aufs Spielfeld **gekommen**. (Les deux équipes entrent sur le terrain.  => Les deux équipes sont entrées sur le terrain.)
 
 * Der Bauer steht früh auf.
-  => Der Bauer ist früh aufgestanden. (Le fermier se lève tôt.  => Le fermier s'est levé tôt.)
+  => Der Bauer **ist** früh **aufgestanden**. (Le fermier se lève tôt.  => Le fermier s'est levé tôt.)
 
 * Der Friseur schneidet die Haare ab.
-=> Der Friseur hat die Haare abgeschnitten. (Le coiffeur coupe les cheveux.  => Le coiffeur a coupé les cheveux.)
+=> Der Friseur **hat** die Haare **abgeschnitten**. (Le coiffeur coupe les cheveux.  => Le coiffeur a coupé les cheveux.)
 
 * Meine Mutter ruft den Hausarzt an.
-  => Meine Mutter hat den Hausarzt angerufen. (Ma mère appelle le médecin de famille.  => Ma mère a appelé le médecin de famille.)
+  => Meine Mutter **hat** den Hausarzt **angerufen**. (Ma mère appelle le médecin de famille.  => Ma mère a appelé le médecin de famille.)
 
 * Die Mitschüler fahren nach Frankreich.
-=> Die Mitschüler sind nach Frankreich gefahren. (Les camarades de classe vont en France.  => Les camarades de classe sont allés en France.)
+=> Die Mitschüler **sind** nach Frankreich **gefahren**. (Les camarades de classe vont en France.  => Les camarades de classe sont allés en France.)
 
 * Mein Bruder macht das Licht aus.
-  => Mein Bruder hat das Licht ausgemacht. (Mon frère éteint la lumière.  => Mon frère a éteint la lumière.)
+  => Mein Bruder **hat** das Licht **ausgemacht**. (Mon frère éteint la lumière.  => Mon frère a éteint la lumière.)
 
 ## Ref
 
