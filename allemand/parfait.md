@@ -65,16 +65,16 @@ exemples:
 
 ### 1
 
-Mama __ die Fensterscheiben __. (putzen)
-Du __ dein Zeugnis __. (verlieren)
-Ich __ eine schwere Tasche __. (tragen)
-Ihr __ eurem Freund zum Geburtstag __. (gratulieren)
-Meine Schwestern __ zu Hause __. (bleiben)
-Sie __ eine Puppe __. (bekommen)
-Er __ in sein Zimmer __. (gehen)
-Die Nachbarn __ zum Abendessen __. (kommen)
-Der Fernseher __ nicht __. (funktionieren)
-Ich __ heute im Supermarkt __. (sein)
+* Mama __ die Fensterscheiben __. (putzen)
+* Du __ dein Zeugnis __. (verlieren)
+* Ich __ eine schwere Tasche __. (tragen)
+* Ihr __ eurem Freund zum Geburtstag __. (gratulieren)
+* Meine Schwestern __ zu Hause __. (bleiben)
+* Sie __ eine Puppe __. (bekommen)
+* Er __ in sein Zimmer __. (gehen)
+* Die Nachbarn __ zum Abendessen __. (kommen)
+* Der Fernseher __ nicht __. (funktionieren)
+* Ich __ heute im Supermarkt __. (sein)
 
 #### Corrections 
 
