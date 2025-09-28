@@ -9,6 +9,8 @@
 
 Pour les verbes réguliers (verbes faibles):  **ge + radical du verbe + (e)t**
 
+Le suffixe est –et quand un ‘d’ ou un ‘t’ termine le radical.
+
 exemples:      
 * lernen => **ge**lern**t** (apprendre)         
 * spielen => **ge**spiel**t** (jouer)         
@@ -38,7 +40,9 @@ exemples:
 * gratul**ieren**  =>  gratulier**t** (féliciter)
 * Er hat das Auto repariert. (infinitif : reparieren) (Il a réparé la voiture.)
 
-Il en est de même pour les verbes commençant par les préfixes **be - ent - er - ver - zer - emp - ge - miss**
+Il en est de même pour les verbes commençant par les préfixes **ge, miss, zer, be, er, ent, emp, ver.**
+
+Mémo : "J'ai mis Cerbère en enfer." (Prononcez avec un accent allemand un peu exagéré !)
 
 exemples:   
 * **be**enden  =>  beend**et** (terminer)         
@@ -207,6 +211,111 @@ Mein Bruder macht das Licht aus.
 * Mein Bruder macht das Licht aus.
   => Mein Bruder **hat** das Licht **ausgemacht**. (Mon frère éteint la lumière.  => Mon frère a éteint la lumière.)
 
+### 4
+
+Exemple:
+Ich __ heute sehr lange __. [schlafen]
+
+Ich habe heute sehr lange geschlafen. [schlafen] J'ai dormi très longtemps aujourd'hui. (dormir)
+
+1.) Keiner meiner Lehrer __ Müller __. [heißen]
+
+2.) Meine Eltern __ mich spielen __. [lassen]
+
+3.) Ihr __ das Geld __ und nie zurückgegeben. [nehmen]
+
+4.) Mein Vater war da. Er __ aber nicht lange __. [bleiben]
+
+5.) Ihr __ es __. [wissen]
+
+6.) Ich __ diese Aufgabe nicht __. [können]
+
+7.) Wir __ das nicht __. [müssen]
+
+8.) Ihr __ unseren Lehrer nicht __. [mögen]
+
+9.) Goethe __ Faust __. [schreiben]
+
+10.) Ich __ zur Schule gehen __. [sollen]
+
+11.) Das __ ich Ihnen doch __. [sagen]
+
+12.) Meine Eltern __ spät nach Hause __. [kommen]
+
+13.) Wer __ hat meine Tasche __? [finden]
+
+14.) Mein Vater __ dich nach Hause __. [bringen]
+
+15.) Gestern __ wir zur Schule __. [gehen]
+
+16.) Wir __ immer die besten Freunde __. [sein]
+
+17.) Letztes Jahr __ ich nicht in den Urlaub __. [fahren]
+
+18.) Er __ ein Buch __. [schreiben]
+
+19.) Gestern hatte mein Bruder fast einen Unfall. Er __ Glück __. [haben]
+
+20.) Letzte Woche __ ich Tennis __. [spielen]
+
+21.) Meine Mutter __ mir den Schlüssel __. [geben]
+
+22.) Wir __ den neuen Film noch nicht __. [sehen]
+
+23.) Du __ die ganze Pizza __? [essen]
+
+24.) Ich __ alle Bücher von Shakespeare __. [lesen]
+
+#### Corrections
+
+1.) Keiner meiner Lehrer hat Müller geheißen. [heißen] Aucun de mes professeurs ne s'appelait Müller. (S’appeler, se nommer)
+
+2.) Meine Eltern haben mich spielen gelassen. [lassen] Mes parents me laissent jouer. (laisser)
+
+3.) Ihr habt das Geld genommen und nie zurückgegeben. [nehmen] Tu as pris l'argent et tu ne l'as jamais rendu. (prendre)
+
+4.) Mein Vater war da. Er ist aber nicht lange geblieben. [bleiben] Mon père était là. Mais il n'est pas resté longtemps. (rester)
+
+5.) Ihr habt es gewusst. [wissen] Tu le savais. (savoir, être au courant, connaître)
+
+6.) Ich habe diese Aufgabe nicht gekonnt. [können] Je ne pouvais pas faire cette tâche. (pouvoir, savoir faire qqc)
+
+7.) Wir haben das nicht gemusst. [müssen] Nous n'étions pas obligés de le faire. (devoir, falloir, être obligé)
+
+8.) Ihr habt unseren Lehrer nicht gemocht. [mögen] Tu n'aimais pas notre professeur. (aimer)
+
+9.) Goethe hat Faust geschrieben. [schreiben] Goethe a écrit Faust. (écrire)
+
+10.) Ich habe zur Schule gehen sollen. [sollen] J'aurais dû aller à l'école. (devoir, être obligé)
+
+11.) Das habe ich Ihnen doch gesagt. [sagen] Je te l'avais déjà dit. (dire)
+
+12.) Meine Eltern sind spät nach Hause gekommen. [kommen] Mes parents sont rentrés tard. (venir, aller)
+
+13.) Wer hat hat meine Tasche gefunden? [finden] Qui a trouvé mon sac ? (trouver)
+
+14.) Mein Vater hat dich nach Hause gebracht. [bringen] Mon père t'a ramené à la maison. (apporter, amener, porter)
+
+15.) Gestern sind wir zur Schule gegangen. [gehen] Hier, nous sommes allés à l'école. (aller)
+
+16.) Wir sind immer die besten Freunde gewesen. [sein] Nous avons toujours été les meilleurs amis du monde. (être)
+
+17.) Letztes Jahr bin ich nicht in den Urlaub gefahren. [fahren] L'année dernière, je ne suis pas parti en vacances. (aller, se déplacer)
+
+18.) Er hat ein Buch geschrieben. [schreiben] Il a écrit un livre. (écrire)
+
+19.) Gestern hatte mein Bruder fast einen Unfall. Er hat Glück gehabt. [haben] Hier, mon frère a failli avoir un accident. Il a eu de la chance. (avoir, posséder)
+
+20.) Letzte Woche habe ich Tennis gespielt. [spielen] La semaine dernière, j'ai joué au tennis. (jouer)
+
+21.) Meine Mutter hat mir den Schlüssel gegeben. [geben] Ma mère m'a donné la clé. (donner)
+
+22.) Wir haben den neuen Film noch nicht gesehen. [sehen] Nous n'avons pas encore vu le nouveau film. (voir, regarder.)
+
+23.) Du hast die ganze Pizza gegessen? [essen] Tu as mangé toute la pizza ? (manger)
+
+24.) Ich habe alle Bücher von Shakespeare gelesen. [lesen] J'ai lu tous les livres de Shakespeare. (lire)
+
 ## Ref
 
 https://www.allemandfacile.com/exercices/exercice-allemand-2/exercice-allemand-99968.php
@@ -214,3 +323,5 @@ https://www.allemandfacile.com/exercices/exercice-allemand-2/exercice-allemand-9
 https://www.allemandfacile.com/exercices/exercice-allemand-2/exercice-allemand-115450.php
 
 https://www.allemandfacile.com/exercices/exercice-allemand-2/exercice-allemand-111318.php
+
+https://allemand.org/exercices/temps/parfait/
