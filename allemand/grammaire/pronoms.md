@@ -1,6 +1,8 @@
 # Pronoms
 
 ## Pronoms personnels
+Les pronoms personnels remplacent des noms dans la phrase. Cela permet de raccourcir la phrase
+et d’éviter de répéter les noms. Le genre du pronom doit correspondre à celui du nom remplacé.
 
 | Singular                                      | 	Plural                                          |
 |-----------------------------------------------|--------------------------------------------------|
