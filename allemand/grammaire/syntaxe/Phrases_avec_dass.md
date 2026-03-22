@@ -42,13 +42,19 @@ est suivie par la proposition subordonné (sujet + autres éléments de la phras
 Corrections
 
     Ömer sagt, dass er in der Schule essen möchte.
+    Ömer dit qu’il voudrait manger à l’école.
     
     Hier steht, dass Amela eine E-Mail-Adresse angeben soll.
+    Il est écrit ici qu’Amela doit fournir une adresse e‑mail.
     
     Hier steht, dass Amela noch unterschreiben muss.
+    Il est écrit ici qu’Amela doit encore signer.
     
     Heidi sagt, dass die Bank das Geld vom Konto abbuchen darf.
+    Heidi dit que la banque a le droit de prélever l’argent du compte.
     
     Heidi sagt, dass sie etwas essen will.
+    Heidi dit qu’elle veut manger quelque chose.
     
     Amela sagt, dass sie türkisches Essen mag.
+    Amela dit qu’elle aime la cuisine turque.
