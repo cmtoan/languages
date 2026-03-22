@@ -41,14 +41,14 @@ est suivie par la proposition subordonné (sujet + autres éléments de la phras
 
 Corrections
 
-  Ömer sagt, dass er in der Schule essen möchte.
-  
-  Hier steht, dass Amela eine E-Mail-Adresse angeben soll.
-  
-  Hier steht, dass Amela noch unterschreiben muss.
-  
-  Heidi sagt, dass die Bank das Geld vom Konto abbuchen darf.
-  
-  Heidi sagt, dass sie etwas essen will.
-  
-  Amela sagt, dass sie türkisches Essen mag.
+    Ömer sagt, dass er in der Schule essen möchte.
+    
+    Hier steht, dass Amela eine E-Mail-Adresse angeben soll.
+    
+    Hier steht, dass Amela noch unterschreiben muss.
+    
+    Heidi sagt, dass die Bank das Geld vom Konto abbuchen darf.
+    
+    Heidi sagt, dass sie etwas essen will.
+    
+    Amela sagt, dass sie türkisches Essen mag.
