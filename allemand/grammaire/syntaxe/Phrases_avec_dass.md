@@ -5,14 +5,14 @@
 Les propositions subordonnées complétives commencent par la conjonction « dass » (« que »). La conjonction 
 est suivie par la proposition subordonné (sujet + autres éléments de la phrase + prédicat à la fin).
 
-  Er hat gesagt, dass sie nicht kommen können.
-  Il a dit qu’ils ne peuvent pas venir.
-  
-  Wahrscheinlich haben Sie schon erfahren, dass es neue Lehrerinnen und Lehrer gibt.
-  Vous avez probablement déjà appris qu’il y a de nouveaux instituteurs.
-  
-  Bist du sicher, dass Ömer in der Schule isst?
-  Tu es sûr qu’Ömer mange à l’école ? 
+    Er hat gesagt, dass sie nicht kommen können.
+    Il a dit qu’ils ne peuvent pas venir.
+    
+    Wahrscheinlich haben Sie schon erfahren, dass es neue Lehrerinnen und Lehrer gibt.
+    Vous avez probablement déjà appris qu’il y a de nouveaux instituteurs.
+    
+    Bist du sicher, dass Ömer in der Schule isst?
+    Tu es sûr qu’Ömer mange à l’école ? 
 
 ## Exercises
 
